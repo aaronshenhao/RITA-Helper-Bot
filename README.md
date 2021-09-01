@@ -1,7 +1,7 @@
 # RITA-Helper-Bot
-For the RITA Discord Bot. Allows users to assign languages to categories, and to group a single channel across multiple categories representing different languages. Allows automatic linking between all channels.
+For the RITA Discord Bot. It's purpose is to simplify connecting channels together for automatic translation. Currently, it assumes that each language has it's own category, and uses that to figure out a channel's language. A group of channels represent a single channel, split into multiple languages with automatic translation. The bot simplifies setting up the auto-translation by automatically calling `!tr channel from <lang1> to <lang2> for <#channel>`.
 
-Roughly put together for usage on a single server. It'll be better to incorporate these changes into the RITA bot itself.
+It was roughly put together for usage on a single server. It'll be better to incorporate these changes into the RITA bot itself.
 
 ## Commands
 
