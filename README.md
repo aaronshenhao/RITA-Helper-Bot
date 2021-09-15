@@ -10,7 +10,7 @@ It was roughly put together for usage on a single server. It'll be better to inc
 
 ### Category
 - `!mb category set <language>`: Assigns a language to the category of the current channel.
-- `!mb category unset <language>:` Unsets the language of the category of the current channel.
+- `!mb category unset <language>`: Unsets the language of the category of the current channel.
 - `!mb category list`: Lists all categories, with their language.
 - `!mb category get`: Prints the language of the category of the current channel.
 
