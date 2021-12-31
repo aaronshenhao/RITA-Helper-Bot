@@ -25,6 +25,7 @@ It was roughly put together for usage on a single server. It'll be better to inc
 - `$mb channel remove <group>`: Removes a channel from the group.
 
 ### (Un)Linking
+Enable *bot2bot* in RITA first before executing this commmand.
 - `$mb (un)link channel`: Creates all outgoing translations from the current channel.
 - `$mb (un)link group`: Creates all outgoing translations for all channels in the group of the current channel.
 - `$mb (un)link category`: Creates all outgoing translations for all channels in the current category.
