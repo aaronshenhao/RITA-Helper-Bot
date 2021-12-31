@@ -11,6 +11,7 @@
 # Rename groups
 # List groups even when they don't have any channels in them
 # Detect if bot is not connected to any guilds (len(bot.guilds) = 0)
+# List channels in each group
 
 # Bugs:
 # Database locked while linking.
