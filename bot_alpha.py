@@ -8,6 +8,9 @@
 # Allow linking by name, multiple names.
 # Allow setting category or adding channels by name.
 # Add completion message for linking.
+# Rename groups
+# List groups even when they don't have any channels in them
+# Detect if bot is not connected to any guilds (len(bot.guilds) = 0)
 
 # Bugs:
 # Database locked while linking.
